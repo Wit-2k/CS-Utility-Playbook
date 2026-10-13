@@ -91,4 +91,3 @@ tests/               前端逻辑测试
 - 前端：React 19、TypeScript、Vite
 - 桌面应用：Tauri 2、Rust
 - 本地存储：SQLite
-
